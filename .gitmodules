@@ -1,0 +1,6 @@
+[submodule "rchain"]
+	path = rchain
+	url = https://github.com/rchain/rchain.git
+[submodule "dependencies/bnfc"]
+	path = dependencies/bnfc
+	url = https://github.com/BNFC/bnfc.git
